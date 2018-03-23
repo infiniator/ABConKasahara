@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/ABConKasahara.iml" filepath="$PROJECT_DIR$/.idea/ABConKasahara.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/untitled.iml" filepath="$PROJECT_DIR$/.idea/untitled.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/GolubOnKasahara/.idea/GolubOnKasahara.iml" filepath="$USER_HOME$/Documents/GitHub/GolubOnKasahara/.idea/GolubOnKasahara.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../ImplementCBD/.idea/ImplementCBD.iml" filepath="$PROJECT_DIR$/../ImplementCBD/.idea/ImplementCBD.iml" />
+      <module fileurl="file://$USER_HOME$/Documents/GitHub/NSGA/.idea/NSGA.iml" filepath="$USER_HOME$/Documents/GitHub/NSGA/.idea/NSGA.iml" />
     </modules>
   </component>
 </project>
